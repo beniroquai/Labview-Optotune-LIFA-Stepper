@@ -1,0 +1,11 @@
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\bin\Debug\Stepper Motor.exe
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\bin\Debug\Stepper Motor.pdb
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\bin\Debug\Stepper Motor.xml
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\bin\Debug\Emant300.dll
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\obj\Debug\Stepper_Motor.Form1.resources
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\obj\Debug\Stepper_Motor.Resources.resources
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\obj\Debug\Stepper Motor.vbproj.GenerateResource.Cache
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\obj\Debug\Stepper Motor.exe
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\obj\Debug\Stepper Motor.xml
+C:\Documents and Settings\KY\My Documents\KY Work Area\EMANT 300 Project\Sensor Training Kit\stepper motor\Stepper VB2005\Stepper Motor\Stepper Motor\obj\Debug\Stepper Motor.pdb
